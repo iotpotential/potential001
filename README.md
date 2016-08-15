@@ -3,7 +3,7 @@
 ### Installation & Run
 
 ```bash
-git clone git@github.com:Vinnie1986/iotpotential.git
+git clone https://github.com/iotpotential/potential001.git 
 cd Flask-GoogleMaps
 python setup.py install
 python setup.py develop
